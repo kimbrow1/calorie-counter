@@ -1,1 +1,1 @@
-# calorie-countr
+# calorie-counter
